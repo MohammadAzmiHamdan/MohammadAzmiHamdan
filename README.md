@@ -37,7 +37,10 @@ Always working on projects, coding exercises, and improving my skills 💻.
 - Created a Java OOP learning book  
 - Published courses on NoNerds platform  
 - Shared programming tutorials on YouTube  
-- Solved 400+ programming problems  
+- Solved 400+ programming problems
+- I am currently committed to Dr. Mohammed Abu Hadhoud's roadmap on the platform https://programmingadvices.com/
+   <img width="50" height="25" alt="image" src="https://github.com/user-attachments/assets/c2625753-391c-4bd5-b54a-54ef5e735ae6" />
+
 
 ---
 
