@@ -3,7 +3,6 @@
   <em style="color:#f5f5f5;">"Welcome to my GitHub Repository — Code. Learn. Share. 🚀"</em>
 </div>
 
-
 <hr>
 
 ### 👋 Hello! I'm **Mohammad Azmi Hamdan** 
@@ -38,19 +37,17 @@ Always working on projects, coding exercises, and improving my skills 💻.
   </a>
 </div>
 
-
-
 <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" style="margin-left:15px;"/>
 
- [C++-Exercises](https://github.com/MohammadAzmiHamdan/Cpp-Exercises) — C++ exercises & small projects from university & courses. 
- 
- [Java-OOP-Book & Java Exercises](https://github.com/MohammadAzmiHamdan/Java-Exercises) — Source files and examples for my Java OOP book and my Java Exercises .  
- 
- [YouTube-Demos](https://www.youtube.com/@start-coding-with-mohammad) — Code examples used in my tutorials.  
- 
- [Portfolio Website](https://MohammadAzmiHamdan.github.io/) — My personal portfolio hosted on GitHub Pages.  
- 
- [WordPress Site](https://azmihamdan9.wordpress.com/) — Azmi Hamdan Auto Repair site.  
+[C++-Exercises](https://github.com/MohammadAzmiHamdan/Cpp-Exercises) — C++ exercises & small projects from university & courses.  
+
+[Java-OOP-Book & Java Exercises](https://github.com/MohammadAzmiHamdan/Java-Exercises) — Source files and examples for my Java OOP book and my Java Exercises.  
+
+[YouTube-Demos](https://www.youtube.com/@start-coding-with-mohammad) — Code examples used in my tutorials.  
+
+[Portfolio Website](https://MohammadAzmiHamdan.github.io/) — My personal portfolio hosted on GitHub Pages.  
+
+[WordPress Site](https://azmihamdan9.wordpress.com/) — Azmi Hamdan Auto Repair site.  
 <img width="50" height="25" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNpbHB3bDRtajAxNnJzc2FqMHRkbnBqbzg2Y2ltdm95eGowNWgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YMYucg1qWuVpHKS6dG/giphy.gif" style="margin-top:5px;"/>
 
 ---
@@ -92,18 +89,18 @@ Always working on projects, coding exercises, and improving my skills 💻.
 
 <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - Expanding **C++ exercises** and **Java OOP examples**  
-
-- Developing new **YouTube tutorials** and **course materials**
-  
-- Practicing algorithms and problem solving
-
-  
+- Developing new **YouTube tutorials** and **course materials**  
+- Practicing algorithms and problem solving  
 - Improving GitHub portfolio & LinkedIn presence  
+
 ---
+
 <div align="center" style="margin-top:15px;">
   <img src="https://camo.githubusercontent.com/b2f00adbba3dab532822ba230a6f9d64986c5edd71803340b3e7aa13ab365393/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d476c6f7373416e64426c6f6f6d2673697a653d3330266475726174696f6e3d3439393726636f6c6f723d393933333030266261636b67726f756e643d46463637333230302663656e7465723d74727565267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b796f75722b76697369743b2b436861742b6d652b62656c6f77f09f91873b2b4279652b486176652b612b676f6f642b446179" width="1200" />
 </div>
+
 ---
+
 ### 📬 Contact Information 
 <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center" style="margin-top:10px;">
@@ -125,6 +122,7 @@ Always working on projects, coding exercises, and improving my skills 💻.
 </div>
 
 ---
+
 <div align="center">
   <!-- أول صف: GitHub Stats و Streak -->
   <table width="100%">
