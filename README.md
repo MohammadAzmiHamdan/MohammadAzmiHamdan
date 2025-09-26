@@ -1,8 +1,8 @@
-<div align="center" width="100%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br>
-  <br>
-  <em>"Welcome to my GitHub Repository — Code. Learn. Share. 🚀"</em>
+<div align="center" style="background-color:#1a1a2e; padding:20px; border-radius:15px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br><br>
+  <em style="color:#f5f5f5;">"Welcome to my GitHub Repository — Code. Learn. Share. 🚀"</em>
 </div>
+
 
 <hr>
 
@@ -125,31 +125,28 @@ Always working on projects, coding exercises, and improving my skills 💻.
 </div>
 
 ---
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadAzmiHamdan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAzmiHamdan&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAzmiHamdan&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+<div align="center">
+  <!-- أول صف: GitHub Stats و Streak -->
+  <table width="100%">
+    <tr>
+      <td align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadAzmiHamdan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAzmiHamdan&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- ثاني صف: Top Languages -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAzmiHamdan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+
+  <!-- ثالث صف: GitHub Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadAzmiHamdan&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+
+  <!-- رابع صف: Followers -->
+  <br><br>
+  <img src="https://img.shields.io/github/followers/MohammadAzmiHamdan?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub Followers" />
 </div>
----
-
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=MohammadAzmiHamdan&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MohammadAzmiHamdan?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
----
-
