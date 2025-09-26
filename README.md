@@ -89,35 +89,6 @@ Always working on projects, coding exercises, and improving my skills 💻.
 </div>
 
 ---
-
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadAzmiHamdan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAzmiHamdan&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAzmiHamdan&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=MohammadAzmiHamdan&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MohammadAzmiHamdan?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
----
-
 ### 📬 Contact Information 
 <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center" style="margin-top:10px;">
@@ -137,3 +108,33 @@ Always working on projects, coding exercises, and improving my skills 💻.
 <div align="center" style="margin-top:15px;">
   <em>"Code. Learn. Share. Repeat. 💻🚀"</em>
 </div>
+
+---
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td> 
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadAzmiHamdan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
+      </td> 
+      <td> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAzmiHamdan&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+      </td> 
+    </tr> 
+  </table> 
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAzmiHamdan&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+</div>
+---
+
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=MohammadAzmiHamdan&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MohammadAzmiHamdan?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+</p>
+
+---
+
