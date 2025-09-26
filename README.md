@@ -72,6 +72,8 @@ Always working on projects, coding exercises, and improving my skills 💻.
 ---
 
 ### 🎯 Currently Working On 
+<img align="right" src="https://upload.wikimedia.org/wikipedia/ar/thumb/8/89/Chrome_Dinosaur_Game.gif/250px-Chrome_Dinosaur_Game.gif" width="150" style="margin-left:15px;"/>
+
 <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - Expanding **C++ exercises** and **Java OOP examples**  
 
@@ -81,13 +83,10 @@ Always working on projects, coding exercises, and improving my skills 💻.
 
   
 - Improving GitHub portfolio & LinkedIn presence  
-
 ---
-
 <div align="center" style="margin-top:15px;">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100" />
+  <img src="https://camo.githubusercontent.com/b2f00adbba3dab532822ba230a6f9d64986c5edd71803340b3e7aa13ab365393/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d476c6f7373416e64426c6f6f6d2673697a653d3330266475726174696f6e3d3439393726636f6c6f723d393933333030266261636b67726f756e643d46463637333230302663656e7465723d74727565267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b796f75722b76697369743b2b436861742b6d652b62656c6f77f09f91873b2b4279652b486176652b612b676f6f642b446179" width="1200" />
 </div>
-
 ---
 ### 📬 Contact Information 
 <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
