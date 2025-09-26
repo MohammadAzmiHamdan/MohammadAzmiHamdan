@@ -1,5 +1,7 @@
 <div align="center" width="100%">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Coding Workspace" width="40%"/><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br>
+  <br>
+  <em>"Welcome to my GitHub Repository — Code. Learn. Share. 🚀"</em>
 </div>
 
 <hr>
