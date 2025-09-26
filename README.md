@@ -27,7 +27,7 @@ Always working on projects, coding exercises, and improving my skills 💻.
 ---
 
 ### 💻 Featured Projects 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" style="margin-left:15px;"/>
+<img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" style="margin-left:15px;"/>
  [C++-Exercises](https://github.com/MohammadAzmiHamdan/CIS-Cpp-Exercises) — C++ exercises & small projects from university & courses. 
  
  [Java-OOP-Book](https://github.com/MohammadAzmiHamdan/Java-OOP-Book) — Source files and examples for my Java OOP book.  
