@@ -27,10 +27,24 @@ Always working on projects, coding exercises, and improving my skills 💻.
 ---
 
 ### 💻 Featured Projects 
+<div align="center">
+  <a href="https://github.com/MohammadAzmiHamdan/Cpp-Exercises" target="_blank">
+    <img src="https://img.shields.io/badge/Cpp-Exercises-MediumBlue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp Exercises"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/MohammadAzmiHamdan/Java-Exercises" target="_blank">
+    <img src="https://img.shields.io/badge/Java-Exercises-Orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Exercises"/>
+  </a>
+</div>
+
+
+
 <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" style="margin-left:15px;"/>
- [C++-Exercises](https://github.com/MohammadAzmiHamdan/CIS-Cpp-Exercises) — C++ exercises & small projects from university & courses. 
+
+ [C++-Exercises](https://github.com/MohammadAzmiHamdan/Cpp-Exercises) — C++ exercises & small projects from university & courses. 
  
- [Java-OOP-Book](https://github.com/MohammadAzmiHamdan/Java-OOP-Book) — Source files and examples for my Java OOP book.  
+ [Java-OOP-Book & Java Exercises](https://github.com/MohammadAzmiHamdan/Java-Exercises) — Source files and examples for my Java OOP book and my Java Exercises .  
  
  [YouTube-Demos](https://www.youtube.com/@start-coding-with-mohammad) — Code examples used in my tutorials.  
  
