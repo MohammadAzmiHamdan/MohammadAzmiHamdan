@@ -41,6 +41,22 @@ Always working on projects, coding exercises, and improving my skills 💻.
 
 ---
 
+### 🎓 Special Achievement
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" alt="Graduation Cap" width="50" style="vertical-align:middle;"/>
+  <span style="font-size:18px; font-weight:bold; margin-left:10px;">
+    Achieved first place on the honor roll in my major, Computer Information Systems, among second-year students with a GPA of 3.75.
+  </span>
+  <br><br>
+  <a href="https://youtube.com/@start-coding-with-mohammad" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="50" style="vertical-align:middle;"/>
+    <span style="font-size:22px; font-weight:bold; margin-left:5px;">اشترك في قناتي</span>
+  </a>
+</div>
+
+---
+
+
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - Expanding **C++ exercises** and **Java OOP examples**  
 - Developing new **YouTube tutorials** and **course materials**  
